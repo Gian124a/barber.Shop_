@@ -1,5 +1,4 @@
 window.onload = function() {
-    alert('he cargado completamente la pagina');
     $('#Onload').fadeOut();
     $('body').removeClass('Hidden');
 }
